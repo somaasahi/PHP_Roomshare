@@ -1,0 +1,105 @@
+body{
+  width:100%;
+}
+
+header{
+  position: fixed;            /* ヘッダーの固定 */
+    top: 0px;
+    z-index: 100;
+  }
+
+
+.main{
+  width:100%;
+  height: 820px;
+  background-image: url("/css/nicey.jpeg");
+  background-size: 100% auto;
+  background-color:rgba(255,255,255,0.45);
+  background-blend-mode:lighten;
+  z-index: 1;
+  padding-bottom:80px;
+}
+
+.amain{
+  width:100%;
+  height: auto;
+  background-image: url("/css/nicey.jpeg");
+  background-size: 100% auto;
+  background-repeat:repeat;
+  background-color:rgba(255,255,255,0.45);
+  background-blend-mode:lighten;
+  z-index: 1;
+  padding-bottom:80px;
+
+
+}
+.container{
+  padding-top: 150px;
+  width:60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.area_index{
+  vertical-align: middle;
+  background-color: white;
+  background-color:rgba(255,255,255,0.6);
+  height: 250px;
+  margin-top:30px;
+  display: flex;
+  width: 100%;
+  border-radius: 13px;
+}
+
+.images {
+  margin-left: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width:30%;
+}
+.three_text {
+  margin-left:30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-right: 20px;
+  width:70%;
+}
+.view_outline{
+  background-color: white;
+  background-color:rgba(255,255,255,0.6);
+  border-radius: 17px;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.view_view{
+  display: flex;
+  width: 100%;
+
+}
+
+.view_images {
+  margin-left: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+  width:50%;
+}
+.view_three_text {
+  margin-left:30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-right: 20px;
+  width:50%;
+}
+
+.contentbox{
+  padding: 30px;
+}
+
+.aboutbox{
+  background-color: white;
+  background-color:rgba(255,255,255,0.6);
+  border-radius: 100px;
+  padding: 70px 100px 100px 70px;
+  color:#555555;
+}
