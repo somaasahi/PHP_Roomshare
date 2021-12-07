@@ -1,4 +1,4 @@
-## What is [ room share ]
+## What is [ room share ] ?
 ## Overview
  - mainfunction: Posted by someone who wants to rent a room. → The person who wants to buy a room contacts.
  - subfunction: like button, area search, keyword search
@@ -26,6 +26,8 @@
 
 ## About database
  - name of database: room
- - You can demonstrate if you create a database on phpMyAdmin and import the file(DB.sql).
+ - You can demonstrate [ room share ] if you create a database on phpMyAdmin and import the file(DB.sql).
+ 
+ 
  
  *****  thank you for reading!  *****
