@@ -26,7 +26,7 @@
 
 ## About database
  - name of database: room
- - You can demonstrate [ room share ] if you create a database on phpMyAdmin and import the file(DB.sql).
+ - You can demonstrate [ room share ] if you create a database on phpMyAdmin and import the file(room.sql).
  
  
  
