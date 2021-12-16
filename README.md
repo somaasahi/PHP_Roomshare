@@ -29,7 +29,7 @@
  - You can demonstrate [ room share ] if you create a database on phpMyAdmin and import the file(room.sql).
 
 ## Articles
- - Two month anniversary since I started programming❤︎
+ - Two month anniversary since I started programming.
  - I am very thankful to those who help me and colleagues competing　with me!
  - Let's keep in touch!
  
